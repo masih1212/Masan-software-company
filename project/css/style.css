@@ -1,0 +1,32 @@
+#bgshow{
+position: relative;
+min-height: 530px;
+background:url('../image/bgg.jpg');
+background-position-y: center;
+background-size:100%;
+}
+.bgshow-main{
+position:absolute;
+left:0;
+top:0;
+height:100%;
+width:100%;
+background:rgb(50 60 111/68%);
+}
+body{
+    margin-top: 75px;
+}
+.f-800{
+font-weight: 800;
+}
+.navbar{
+    background: #fff;
+    opacity: 0.9;
+}
+.fontboxicon{
+    font-size:50px;
+}
+
+#comments img{
+    margin-top:-55px;
+}
